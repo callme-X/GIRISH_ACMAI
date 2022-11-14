@@ -3,6 +3,7 @@ DevPost    profile    -> https://devpost.com/callme-X?ref_content=user-portfolio
 HackerRank profile    -> https://www.hackerrank.com/giri090205
 GitHub     profile    -> https://github.com/callme-X
 Linkedin   profile    -> https://www.linkedin.com/in/girish-s-4454a8255/
+YouTube    link       -> https://www.youtube.com/watch?v=JF_Fdteldng
 
 
 Roll no.              -> AM.EN.U4AIE22044
